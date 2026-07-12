@@ -1,0 +1,19 @@
+{
+  "email": "msmkmark@gmail.com",
+  "password": "jfLgYH!PVZqGg6X",
+  "cardName": "MARK IGNATENKO",
+  "smsCode": "56456",
+  "invalidSmsCode": "11111",
+  
+  "validCard": {
+    "number": "4111111111111111",
+    "date": "12/34",
+    "cvv": "125"
+  },
+  
+  "invalidCard": {
+    "number": "4111111111111111",
+    "date": "12/34",
+    "cvv": "300"
+  }
+}
